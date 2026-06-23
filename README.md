@@ -80,6 +80,27 @@ Manages:
 * Course statistics
 
 ---
+## Screenshots
+
+### Main Menu
+<p align="center">
+  <img src="MenuScreen.png" width="800">
+</p>
+
+### Add Student
+<p align="center">
+  <img src="AddStudentScreen.png" width="800">
+</p>
+
+### Add Teacher
+<p align="center">
+  <img src="AddTeacherScreen.png" width="800">
+</p>
+
+### Create Course
+<p align="center">
+  <img src="CreateCourseScreen.png" width="800">
+</p>
 
 ## Technologies Used
 
