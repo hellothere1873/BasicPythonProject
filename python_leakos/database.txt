@@ -1,0 +1,4 @@
+Everthing
+Name: Argy, Age: 20, ID: S123, Classes: English: 20 
+Name: bargy, Age: 20, ID: S133, Classes: English: 15 
+Name: Argy, Age: 50, ID: T123, Classes they teach: English
